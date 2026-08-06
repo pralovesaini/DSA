@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pralovesaini/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
