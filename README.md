@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pralovesaini/DSA/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/pralovesaini/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
