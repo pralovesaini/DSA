@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pralovesaini/DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/pralovesaini/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,5 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/pralovesaini/DSA/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
