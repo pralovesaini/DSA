@@ -13,6 +13,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
+| [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pralovesaini/DSA/tree/master/0485-max-consecutive-ones) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/pralovesaini/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -37,4 +38,8 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/pralovesaini/DSA/tree/master/0940-distinct-subsequences-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
