@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
@@ -45,4 +46,8 @@
 | ------- |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
