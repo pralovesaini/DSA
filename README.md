@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/pralovesaini/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pralovesaini/DSA/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/pralovesaini/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -48,8 +49,13 @@
 | ------- |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
