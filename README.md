@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/pralovesaini/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pralovesaini/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/pralovesaini/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/pralovesaini/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pralovesaini/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
