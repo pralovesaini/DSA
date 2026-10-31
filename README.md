@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/pralovesaini/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/pralovesaini/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/pralovesaini/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -45,6 +46,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/pralovesaini/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/pralovesaini/DSA/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
