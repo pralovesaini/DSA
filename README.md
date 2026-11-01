@@ -27,6 +27,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pralovesaini/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pralovesaini/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Trie
 |  |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pralovesaini/DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pralovesaini/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pralovesaini/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
