@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pralovesaini/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pralovesaini/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/pralovesaini/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/pralovesaini/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pralovesaini/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
