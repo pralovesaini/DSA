@@ -1,0 +1,26 @@
+
+class Solution:
+    def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
+        dummy = ListNode(0)
+        borrow = 0
+        current = dummy
+
+        while l1 or l2 or borrow:
+            val1 = l1.val if l1 else 0
+            val2 = l2.val if l2 else 0
+
+            total = val1 + val2 + borrow
+
+            borrow = total // 10
+            digit = total % 10
+
+            current.next = ListNode(digit)
+            current = current.next
+
+            if l1:
+                l1 = l1.next
+
+            if l2:
+                l2 = l2.next
+
+        return dummy.next
