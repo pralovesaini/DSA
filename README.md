@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/pralovesaini/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pralovesaini/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/pralovesaini/DSA/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/pralovesaini/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
