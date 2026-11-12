@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pralovesaini/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/pralovesaini/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pralovesaini/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
