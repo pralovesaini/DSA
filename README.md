@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/pralovesaini/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pralovesaini/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/pralovesaini/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pralovesaini/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pralovesaini/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pralovesaini/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -77,6 +79,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
 | [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
