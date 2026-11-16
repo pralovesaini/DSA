@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/pralovesaini/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/pralovesaini/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pralovesaini/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pralovesaini/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/pralovesaini/DSA/tree/master/0073-set-matrix-zeroes) |
 | [3665-twisted-mirror-path-count](https://github.com/pralovesaini/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
