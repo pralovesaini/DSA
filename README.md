@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pralovesaini/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/pralovesaini/DSA/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/pralovesaini/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/pralovesaini/DSA/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pralovesaini/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/pralovesaini/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/pralovesaini/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pralovesaini/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pralovesaini/DSA/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pralovesaini/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
