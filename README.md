@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pralovesaini/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pralovesaini/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/pralovesaini/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/pralovesaini/DSA/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/pralovesaini/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/pralovesaini/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pralovesaini/DSA/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/pralovesaini/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pralovesaini/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pralovesaini/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pralovesaini/DSA/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/pralovesaini/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
